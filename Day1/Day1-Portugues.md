@@ -4,7 +4,7 @@ Hoje comecei o desafio dos 125 dias de código. Vou começar relembrando conceit
 
 ## O que eu aprendi hoje
 
-Conceitos de variáveis, tipos de dados, operadores, controle de fluxo, arrays, loops, métodos, classes, objetos, herança, polimorfismo, encapsulamento, abstração, interfaces, pacotes, modificadores de acesso, exceções, genéricos, coleções, threads, programação funcional, streams, I/O, serialização, anotações, expressões lambda e mais.
+Conceitos de variáveis, tipos de dados, operadores, controle de fluxo, arrays, loops, métodos, classes, objetos, herança, polimorfismo, encapsulamento, abstração, interfaces, pacotes, modificadores de acesso, exceções, genéricos, coleções, threads, programação funcional, streams, I/O, serialização, anotações, expressões lambda.
 
 ## Conceitos básicos e lógica de programação
 ### Tipos de Variáveis
