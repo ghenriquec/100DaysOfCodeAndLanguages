@@ -13,9 +13,9 @@ Conceitos de variáveis, tipos de dados, operadores, controle de fluxo, arrays, 
 
 ### Operadores
 #### Operadores Aritméticos
-- + (adição): a + b
-- - (subtração): a - b
-- * (multiplicação): a * b
+- (adição): a + b
+- (subtração): a - b
+- (multiplicação): a * b
 - / (divisão): a / b
 - % (módulo): a % b
 - ++ (incremento): a++ (pós-incremento) ou ++a (pré-incremento)
