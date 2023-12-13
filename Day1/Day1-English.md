@@ -8,14 +8,14 @@ concepts of variables, data types, operators, control flow, arrays, loops, metho
 
 ## Basics concepts and logical programming
 ### Variables Types
-- ** Primitive types **: byte, short, int, long, float, double, boolean, char.
-- ** Reference types **: String, Array, Class, Interface, Enum, etc.
+- **Primitive types**: byte, short, int, long, float, double, boolean, char.
+- **Reference types**: String, Array, Class, Interface, Enum, etc.
 
 ### Operators
 #### Arithmetic operators 
-- + (addition): a + b
-- - (subtraction): a - b
-- * (multiplication): a * b
+- (addition): a + b
+- (subtraction): a - b
+- (multiplication): a * b
 - / (division): a / b
 - % (modulo): a % b
 - ++ (increment): a++ (post-increment) or ++a (pre-increment)
